@@ -3,7 +3,7 @@
 The following model uses the famous Titanic dataset(from Kaggle) and uses it in a Logistic Regression model to determine is a passenger survived the infamous Titanic ship wreck. The data is first cleaned and encoded. Then we use various metrics to determine if a passenger survived or died depending on the various parameters 
 
 STEPS-
-1) Visualize the data in various plots and graphs to determine the missing or noisy data
+1) Visualize the data (using seaborn) in various plots and graphs to determine the missing or noisy data
  
 2) Replace or Drop the data so that the regression model wont encounter any error
  
